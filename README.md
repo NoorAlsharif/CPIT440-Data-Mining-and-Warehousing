@@ -1,5 +1,5 @@
 # CPIT440-Data-Mining-and-Warehousing
-
+## Part 1: Proposal
 <img width="498" alt="Screen Shot 2022-05-11 at 5 24 25 PM" src="https://user-images.githubusercontent.com/71409736/167873444-78ab9e8b-e350-4ea1-a8dc-f6dadf74b5a9.png">
 <img width="498" alt="Screen Shot 2022-05-11 at 5 24 43 PM" src="https://user-images.githubusercontent.com/71409736/167873456-4faf46a5-7fdf-40f1-90a5-40c80577bb3f.png">
 <img width="498" alt="Screen Shot 2022-05-11 at 5 24 46 PM" src="https://user-images.githubusercontent.com/71409736/167873462-6328e4dd-1a1e-43e3-b86b-fc8374a6316d.png">
@@ -11,3 +11,4 @@
 <img width="498" alt="Screen Shot 2022-05-11 at 5 25 02 PM" src="https://user-images.githubusercontent.com/71409736/167873533-c327c58b-986d-4d34-bb02-8a3c50bee62a.png">
 <img width="498" alt="Screen Shot 2022-05-11 at 5 25 04 PM" src="https://user-images.githubusercontent.com/71409736/167874281-19508288-21a7-4ae1-a7fc-76e1a85fb7d7.png">
 <img width="498" alt="Screen Shot 2022-05-11 at 5 25 06 PM" src="https://user-images.githubusercontent.com/71409736/167874314-0207d72e-b63f-4a66-a699-69ac08085e96.png">
+## PArt 2:
